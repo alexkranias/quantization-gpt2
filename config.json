@@ -1,0 +1,249 @@
+{
+    "quantization": {
+        "GPT2Block_1": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_2": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_3": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_4": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_5": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_6": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_7": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_8": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_9": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_10": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_11": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_12": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "output_layer": 4
+
+    },
+    "lora": {
+        "GPT2Block_1": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_2": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_3": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_4": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_5": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_6": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_7": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_8": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_9": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_10": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_11": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "GPT2Block_12": {
+            "GPT2Attention": {
+                "layer_1": 4,
+                "layer_2": 4
+            },
+            "GPT2MLP": {
+                "layer_1": 4,
+                "layer_2": 4
+            }
+        },
+        "output_layer": 4
+    }
+}
