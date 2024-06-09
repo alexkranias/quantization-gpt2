@@ -1,0 +1,3 @@
+[submodule "InstantNet/InstantNet"]
+	path = InstantNet/InstantNet
+	url = https://github.com/GATECH-EIC/InstantNet.git
