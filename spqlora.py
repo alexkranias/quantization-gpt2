@@ -1,5 +1,5 @@
 from instantnet.quantize import QLinear, Quantize, QParams, calculate_qparams
-from loralib.layers import Linear as LoRALinear
+from loralib.layers import Linear as LoRALinear, MergedLinear as LoRAMergedLinear
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -90,3 +90,6 @@ class SPQLinear(QLinear, LoRALinear):
             output = self.pass_through_LoRA(input, self.weight, self.bias)
 
         return output
+    
+class SQPMergedLinear(QLinear, LoRAMergedLinear):
+    # implement this
